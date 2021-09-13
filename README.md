@@ -19,5 +19,6 @@ In the subfolders there are assignments which focus on [frontend](Frontend) and 
 - Try to keep track of the approximate time it takes to implement each of the requirements.
 - Commit the solution in a public GitHub repository.
 
+
 Good luck and remember to have fun!
 (｡◕‿◕｡)
