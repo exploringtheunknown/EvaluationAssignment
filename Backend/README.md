@@ -50,5 +50,4 @@ _Customer Y_ started using _Service B_ and _Service C_ 2018-01-01. _Customer Y_ 
 
 **Technologies**
 --------
-
-.NET (.NET Core 3.1/.NET 5), Python 3
+.NET (current LTS or STS release), Python 3
